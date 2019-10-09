@@ -15,6 +15,7 @@ public class Task03 {
      */
 
     public static void main(String[] args) {
-        // Напишите здесь ваш код
+        System.out.println("Мой юный друг, сейчас 2019 год. Наш университет основан 98 лет назад.");
+        System.out.println("1921");
     }
 }
